@@ -377,7 +377,7 @@
         <johnzon-version>1.2.3</johnzon-version>
         <jose4j-version>0.6.4</jose4j-version>
         <josql-bundle-version>1.5_5</josql-bundle-version>
-        <jsendnsca-version>2.1.1</jsendnsca-version>
+        <jsendnsca-version>3.0.0</jsendnsca-version>
         <jslt-version>0.1.8</jslt-version>
         <jsmpp-version>2.3.8</jsmpp-version>
         <jsch-version>0.1.55</jsch-version>
