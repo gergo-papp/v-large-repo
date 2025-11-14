@@ -530,7 +530,7 @@
         <protobuf-javanano-version>3.1.0</protobuf-javanano-version>
         <protobuf-maven-plugin-version>0.6.1</protobuf-maven-plugin-version>
         <protonpack-version>1.8</protonpack-version>
-        <pubnub-version>4.25.0</pubnub-version>
+        <pubnub-version>9.0.0</pubnub-version>
         <pulsar-version>2.5.0</pulsar-version>
         <pulsar-bundle-version>2.5.0_1</pulsar-bundle-version>
         <qpid-broker-version>7.1.8</qpid-broker-version>
@@ -608,7 +608,7 @@
         <spymemcached-bundle-version>2.5_2</spymemcached-bundle-version> <!-- FIXME cmueller: not in sync! -->
         <spymemcached-version>2.12.0</spymemcached-version>
         <sql-maven-plugin-version>1.5</sql-maven-plugin-version>
-        <squareup-okhttp-version>3.14.3</squareup-okhttp-version>
+        <squareup-okhttp-version>4.9.2</squareup-okhttp-version>
         <squareup-okio-version>1.17.2</squareup-okio-version>
         <squareup-okhttp-bundle-version>2.7.5_1</squareup-okhttp-bundle-version>
         <squareup-okio-bundle-version>1.15.0_1</squareup-okio-bundle-version>
