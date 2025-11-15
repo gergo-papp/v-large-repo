@@ -285,7 +285,7 @@
         <icu4j-version>65.1</icu4j-version>
         <ignite-version>2.7.6</ignite-version>
         <infinispan-version>10.1.2.Final</infinispan-version>
-        <influx-java-driver-version>2.17</influx-java-driver-version>
+        <influx-java-driver-version>2.23</influx-java-driver-version>
         <influx-java-driver-bundle-version>2.17_1</influx-java-driver-bundle-version>
         <influx-guava-version>20.0</influx-guava-version>
         <irclib-bundle-version>1.10_5</irclib-bundle-version>
@@ -608,7 +608,7 @@
         <spymemcached-bundle-version>2.5_2</spymemcached-bundle-version> <!-- FIXME cmueller: not in sync! -->
         <spymemcached-version>2.12.0</spymemcached-version>
         <sql-maven-plugin-version>1.5</sql-maven-plugin-version>
-        <squareup-okhttp-version>3.14.3</squareup-okhttp-version>
+        <squareup-okhttp-version>4.9.2</squareup-okhttp-version>
         <squareup-okio-version>1.17.2</squareup-okio-version>
         <squareup-okhttp-bundle-version>2.7.5_1</squareup-okhttp-bundle-version>
         <squareup-okio-bundle-version>1.15.0_1</squareup-okio-bundle-version>
