@@ -493,7 +493,7 @@
         <!-- should be in-sync with deltaspike -->
         <openwebbeans1-version>1.2.7</openwebbeans1-version>
         <openwebbeans-version>1.7.3</openwebbeans-version>
-        <okclient-version>3.11.0</okclient-version>
+        <okclient-version>4.9.2</okclient-version>
         <okclient-bundle-version>3.11.0_1</okclient-bundle-version>
         <olingo2-version>2.0.11</olingo2-version>
         <olingo-odata2-core-bundle-version>2.0.11_1</olingo-odata2-core-bundle-version>
