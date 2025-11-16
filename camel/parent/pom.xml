@@ -487,7 +487,7 @@
         <netty40-version>4.0.56.Final</netty40-version>
         <networknt-json-schema-validator-version>1.0.29</networknt-json-schema-validator-version>
         <nimbus-jose-jwt>4.13.1</nimbus-jose-jwt>
-        <nitrite-version>3.3.0</nitrite-version>
+        <nitrite-version>4.2.0</nitrite-version>
         <noggit-bundle-version>0.5_1</noggit-bundle-version>
         <objenesis-version>2.6</objenesis-version>
         <!-- should be in-sync with deltaspike -->
