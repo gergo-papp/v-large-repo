@@ -36,7 +36,7 @@
         <firstVersion>2.18.0</firstVersion>
         <label>testing,java,osgi</label>
 
-        <karf-test-version>${karaf4-version}</karf-test-version>
+        <karf-test-version>4.3.6</karf-test-version>
     </properties>
 
     <dependencies>
@@ -129,7 +129,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -172,7 +172,7 @@
                         <Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
                         <!-- Export-Package>org.apache.camel.test.karaf</Export-Package -->
                         <DynamicImport-Package>*</DynamicImport-Package>
-                        <Import-Package />
+                        <Import-Package/>
                         <_removeheaders>Import-Package, Private-Package, Include-Resource, Karaf-Info,
                             Require-Capability
                         </_removeheaders>
